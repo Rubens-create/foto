@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-photo-scraper",
+  "version": "1.0.0",
+  "main": "profile-scraper.js",
+  "scripts": {
+    "start": "node profile-scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
